@@ -1,0 +1,391 @@
+﻿Sector económico (5);Periodo;Total
+agricultura;1995TIV;8,19
+agricultura;1995TIII;8,36
+agricultura;1995TII;8,48
+agricultura;1995TI;8,49
+agricultura;1994TIV;8,32
+agricultura;1994TIII;8,41
+agricultura;1994TII;8,65
+agricultura;1994TI;8,84
+agricultura;1993TIV;8,70
+agricultura;1993TIII;8,79
+agricultura;1993TII;8,98
+agricultura;1993TI;9,01
+agricultura;1992TIV;9,01
+agricultura;1992TIII;9,10
+agricultura;1992TII;9,34
+agricultura;1992TI;9,43
+agricultura;1991TIV;9,39
+agricultura;1991TIII;9,72
+agricultura;1991TII;10,07
+agricultura;1991TI;10,38
+agricultura;1990TIV;10,44
+agricultura;1990TIII;10,71
+agricultura;1990TII;11,11
+agricultura;1990TI;11,45
+agricultura;1989TIV;11,55
+agricultura;1989TIII;12,00
+agricultura;1989TII;12,08
+agricultura;1989TI;12,26
+agricultura;1988TIV;12,60
+agricultura;1988TIII;12,77
+agricultura;1988TII;12,88
+agricultura;1988TI;13,30
+agricultura;1987TIV;13,25
+agricultura;1987TIII;13,32
+agricultura;1987TII;13,45
+agricultura;1987TI;13,74
+agricultura;1986TIV;13,81
+agricultura;1986TIII;13,89
+agricultura;1986TII;14,35
+agricultura;1986TI;14,84
+agricultura;1985TIV;15,19
+agricultura;1985TIII;15,44
+agricultura;1985TII;15,69
+agricultura;1985TI;16,05
+agricultura;1984TIV;15,67
+agricultura;1984TIII;15,70
+agricultura;1984TII;15,49
+agricultura;1984TI;15,59
+agricultura;1983TIV;15,48
+agricultura;1983TIII;15,55
+agricultura;1983TII;15,52
+agricultura;1983TI;16,06
+agricultura;1982TIV;15,85
+agricultura;1982TIII;15,66
+agricultura;1982TII;15,45
+agricultura;1982TI;15,90
+agricultura;1981TIV;15,89
+agricultura;1981TIII;16,03
+agricultura;1981TII;16,28
+agricultura;1981TI;16,84
+agricultura;1980TIV;17,04
+agricultura;1980TIII;16,96
+agricultura;1980TII;17,12
+agricultura;1980TI;17,64
+agricultura;1979TIV;17,84
+agricultura;1979TIII;17,96
+agricultura;1979TII;18,19
+agricultura;1979TI;18,88
+agricultura;1978TIV;18,79
+agricultura;1978TIII;19,00
+agricultura;1978TII;19,20
+agricultura;1978TI;19,74
+agricultura;1977TIV;19,59
+agricultura;1977TIII;19,71
+agricultura;1977TII;19,79
+agricultura;1977TI;20,58
+agricultura;1976TIV;20,72
+agricultura;1976TIII;21,11
+industria;1995TIV;18,12
+industria;1995TIII;18,20
+industria;1995TII;18,34
+industria;1995TI;18,44
+industria;1994TIV;18,94
+industria;1994TIII;19,07
+industria;1994TII;19,15
+industria;1994TI;19,43
+industria;1993TIV;19,67
+industria;1993TIII;19,96
+industria;1993TII;20,22
+industria;1993TI;20,32
+industria;1992TIV;20,83
+industria;1992TIII;20,98
+industria;1992TII;21,18
+industria;1992TI;21,11
+industria;1991TIV;21,28
+industria;1991TIII;21,24
+industria;1991TII;21,49
+industria;1991TI;21,47
+industria;1990TIV;21,70
+industria;1990TIII;21,65
+industria;1990TII;21,84
+industria;1990TI;21,85
+industria;1989TIV;21,55
+industria;1989TIII;21,36
+industria;1989TII;21,43
+industria;1989TI;21,38
+industria;1988TIV;21,27
+industria;1988TIII;21,07
+industria;1988TII;21,54
+industria;1988TI;21,41
+industria;1987TIV;21,44
+industria;1987TIII;21,38
+industria;1987TII;21,48
+industria;1987TI;22,44
+industria;1986TIV;22,51
+industria;1986TIII;22,55
+industria;1986TII;22,75
+industria;1986TI;22,68
+industria;1985TIV;22,61
+industria;1985TIII;22,77
+industria;1985TII;23,05
+industria;1985TI;23,33
+industria;1984TIV;23,47
+industria;1984TIII;23,59
+industria;1984TII;23,90
+industria;1984TI;23,94
+industria;1983TIV;23,77
+industria;1983TIII;23,74
+industria;1983TII;24,04
+industria;1983TI;24,04
+industria;1982TIV;24,04
+industria;1982TIII;24,26
+industria;1982TII;24,79
+industria;1982TI;24,76
+industria;1981TIV;25,09
+industria;1981TIII;25,28
+industria;1981TII;25,83
+industria;1981TI;25,96
+industria;1980TIV;25,95
+industria;1980TIII;26,02
+industria;1980TII;25,98
+industria;1980TI;26,24
+industria;1979TIV;26,18
+industria;1979TIII;26,31
+industria;1979TII;26,75
+industria;1979TI;26,66
+industria;1978TIV;26,77
+industria;1978TIII;26,71
+industria;1978TII;26,90
+industria;1978TI;26,85
+industria;1977TIV;26,91
+industria;1977TIII;26,99
+industria;1977TII;27,16
+industria;1977TI;26,84
+industria;1976TIV;26,80
+industria;1976TIII;26,91
+construcción;1995TIV;9,50
+construcción;1995TIII;9,51
+construcción;1995TII;9,60
+construcción;1995TI;9,62
+construcción;1994TIV;9,56
+construcción;1994TIII;9,64
+construcción;1994TII;9,81
+construcción;1994TI;9,62
+construcción;1993TIV;9,83
+construcción;1993TIII;10,02
+construcción;1993TII;10,23
+construcción;1993TI;10,33
+construcción;1992TIV;10,33
+construcción;1992TIII;10,31
+construcción;1992TII;10,20
+construcción;1992TI;10,19
+construcción;1991TIV;10,27
+construcción;1991TIII;10,26
+construcción;1991TII;10,26
+construcción;1991TI;10,13
+construcción;1990TIV;9,94
+construcción;1990TIII;9,72
+construcción;1990TII;9,65
+construcción;1990TI;9,44
+construcción;1989TIV;9,33
+construcción;1989TIII;9,15
+construcción;1989TII;8,92
+construcción;1989TI;8,97
+construcción;1988TIV;8,87
+construcción;1988TIII;8,74
+construcción;1988TII;8,31
+construcción;1988TI;8,25
+construcción;1987TIV;8,34
+construcción;1987TIII;8,20
+construcción;1987TII;8,26
+construcción;1987TI;8,92
+construcción;1986TIV;8,90
+construcción;1986TIII;8,96
+construcción;1986TII;8,72
+construcción;1986TI;8,61
+construcción;1985TIV;8,73
+construcción;1985TIII;8,82
+construcción;1985TII;9,09
+construcción;1985TI;9,00
+construcción;1984TIV;9,23
+construcción;1984TIII;9,48
+construcción;1984TII;9,69
+construcción;1984TI;9,62
+construcción;1983TIV;9,82
+construcción;1983TIII;10,13
+construcción;1983TII;10,09
+construcción;1983TI;9,82
+construcción;1982TIV;10,05
+construcción;1982TIII;10,23
+construcción;1982TII;10,33
+construcción;1982TI;10,32
+construcción;1981TIV;10,33
+construcción;1981TIII;10,50
+construcción;1981TII;10,45
+construcción;1981TI;10,39
+construcción;1980TIV;10,41
+construcción;1980TIII;10,61
+construcción;1980TII;10,82
+construcción;1980TI;10,62
+construcción;1979TIV;10,57
+construcción;1979TIII;10,66
+construcción;1979TII;10,70
+construcción;1979TI;10,52
+construcción;1978TIV;10,64
+construcción;1978TIII;10,73
+construcción;1978TII;10,75
+construcción;1978TI;10,75
+construcción;1977TIV;10,85
+construcción;1977TIII;10,96
+construcción;1977TII;10,74
+construcción;1977TI;10,40
+construcción;1976TIV;10,59
+construcción;1976TIII;10,48
+servicios;1995TIV;54,67
+servicios;1995TIII;54,26
+servicios;1995TII;54,08
+servicios;1995TI;53,78
+servicios;1994TIV;53,66
+servicios;1994TIII;53,66
+servicios;1994TII;53,49
+servicios;1994TI;53,40
+servicios;1993TIV;53,53
+servicios;1993TIII;53,31
+servicios;1993TII;53,18
+servicios;1993TI;52,99
+servicios;1992TIV;52,94
+servicios;1992TIII;53,15
+servicios;1992TII;52,78
+servicios;1992TI;52,59
+servicios;1991TIV;52,63
+servicios;1991TIII;52,28
+servicios;1991TII;51,84
+servicios;1991TI;51,55
+servicios;1990TIV;51,19
+servicios;1990TIII;50,76
+servicios;1990TII;50,28
+servicios;1990TI;49,67
+servicios;1989TIV;49,79
+servicios;1989TIII;49,36
+servicios;1989TII;49,13
+servicios;1989TI;48,51
+servicios;1988TIV;47,90
+servicios;1988TIII;47,36
+servicios;1988TII;47,09
+servicios;1988TI;46,88
+servicios;1987TIV;46,67
+servicios;1987TIII;46,54
+servicios;1987TII;45,97
+servicios;1987TI;46,37
+servicios;1986TIV;46,24
+servicios;1986TIII;46,02
+servicios;1986TII;45,68
+servicios;1986TI;45,24
+servicios;1985TIV;44,71
+servicios;1985TIII;44,14
+servicios;1985TII;43,84
+servicios;1985TI;43,24
+servicios;1984TIV;43,11
+servicios;1984TIII;43,19
+servicios;1984TII;43,32
+servicios;1984TI;43,20
+servicios;1983TIV;43,54
+servicios;1983TIII;43,29
+servicios;1983TII;43,53
+servicios;1983TI;43,03
+servicios;1982TIV;43,25
+servicios;1982TIII;43,42
+servicios;1982TII;43,44
+servicios;1982TI;43,24
+servicios;1981TIV;42,78
+servicios;1981TIII;42,65
+servicios;1981TII;42,45
+servicios;1981TI;42,08
+servicios;1980TIV;41,95
+servicios;1980TIII;42,01
+servicios;1980TII;42,10
+servicios;1980TI;41,81
+servicios;1979TIV;41,81
+servicios;1979TIII;41,73
+servicios;1979TII;41,38
+servicios;1979TI;41,13
+servicios;1978TIV;41,00
+servicios;1978TIII;40,79
+servicios;1978TII;40,84
+servicios;1978TI;40,54
+servicios;1977TIV;40,61
+servicios;1977TIII;40,34
+servicios;1977TII;40,71
+servicios;1977TI;40,60
+servicios;1976TIV;40,22
+servicios;1976TIII;39,92
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1995TIV;9,51
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1995TIII;9,66
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1995TII;9,50
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1995TI;9,66
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1994TIV;9,51
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1994TIII;9,21
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1994TII;8,90
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1994TI;8,70
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1993TIV;8,26
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1993TIII;7,92
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1993TII;7,39
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1993TI;7,36
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1992TIV;6,89
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1992TIII;6,46
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1992TII;6,50
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1992TI;6,69
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1991TIV;6,43
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1991TIII;6,51
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1991TII;6,35
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1991TI;6,47
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1990TIV;6,74
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1990TIII;7,16
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1990TII;7,11
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1990TI;7,59
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1989TIV;7,78
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1989TIII;8,13
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1989TII;8,44
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1989TI;8,89
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1988TIV;9,35
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1988TIII;10,07
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1988TII;10,18
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1988TI;10,16
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1987TIV;10,30
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1987TIII;10,56
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1987TII;10,83
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1987TI;8,44
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1986TIV;8,43
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1986TIII;8,41
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1986TII;8,38
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1986TI;8,51
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1985TIV;8,61
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1985TIII;8,70
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1985TII;8,23
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1985TI;8,22
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1984TIV;8,36
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1984TIII;7,86
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1984TII;7,46
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1984TI;7,55
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1983TIV;7,26
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1983TIII;7,17
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1983TII;6,75
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1983TI;6,95
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1982TIV;6,73
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1982TIII;6,34
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1982TII;5,89
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1982TI;5,69
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1981TIV;5,81
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1981TIII;5,43
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1981TII;4,92
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1981TI;4,69
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1980TIV;4,58
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1980TIII;4,33
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1980TII;3,94
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1980TI;3,63
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1979TIV;3,57
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1979TIII;3,29
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1979TII;2,94
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1979TI;2,78
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1978TIV;2,76
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1978TIII;2,71
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1978TII;2,26
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1978TI;2,10
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1977TIV;1,98
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1977TIII;1,95
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1977TII;1,56
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1977TI;1,52
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1976TIV;1,56
+parados que buscan primer empleo o han dejado su último empleo hace 3 años o más;1976TIII;1,46

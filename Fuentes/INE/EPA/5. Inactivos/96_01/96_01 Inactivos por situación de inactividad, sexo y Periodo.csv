@@ -1,0 +1,433 @@
+﻿Situación de inactividad;Sexo;Periodo;Total
+total;ambos sexos;2001TIV;15.931,5
+total;ambos sexos;2001TIII;15.929,9
+total;ambos sexos;2001TII;16.029,1
+total;ambos sexos;2001TI;16.017,3
+total;ambos sexos;2000TIV;15.479,2
+total;ambos sexos;2000TIII;15.443,7
+total;ambos sexos;2000TII;15.543,9
+total;ambos sexos;2000TI;15.569,5
+total;ambos sexos;1999TIV;15.568,4
+total;ambos sexos;1999TIII;15.610,0
+total;ambos sexos;1999TII;15.735,6
+total;ambos sexos;1999TI;15.730,2
+total;ambos sexos;1998TIV;15.668,4
+total;ambos sexos;1998TIII;15.604,3
+total;ambos sexos;1998TII;15.718,3
+total;ambos sexos;1998TI;15.717,7
+total;ambos sexos;1997TIV;15.607,1
+total;ambos sexos;1997TIII;15.599,0
+total;ambos sexos;1997TII;15.657,6
+total;ambos sexos;1997TI;15.652,7
+total;ambos sexos;1996TIV;15.566,9
+total;ambos sexos;1996TIII;15.502,1
+total;ambos sexos;1996TII;15.583,0
+total;ambos sexos;1996TI;15.536,4
+total;varones;2001TIV;5.554,3
+total;varones;2001TIII;5.515,1
+total;varones;2001TII;5.566,7
+total;varones;2001TI;5.600,0
+total;varones;2000TIV;5.376,9
+total;varones;2000TIII;5.334,2
+total;varones;2000TII;5.414,7
+total;varones;2000TI;5.433,4
+total;varones;1999TIV;5.415,1
+total;varones;1999TIII;5.368,8
+total;varones;1999TII;5.448,3
+total;varones;1999TI;5.427,8
+total;varones;1998TIV;5.405,8
+total;varones;1998TIII;5.352,5
+total;varones;1998TII;5.423,0
+total;varones;1998TI;5.427,8
+total;varones;1997TIV;5.384,4
+total;varones;1997TIII;5.374,7
+total;varones;1997TII;5.395,4
+total;varones;1997TI;5.382,7
+total;varones;1996TIV;5.329,8
+total;varones;1996TIII;5.280,5
+total;varones;1996TII;5.313,7
+total;varones;1996TI;5.276,6
+total;mujeres;2001TIV;10.377,3
+total;mujeres;2001TIII;10.414,8
+total;mujeres;2001TII;10.462,4
+total;mujeres;2001TI;10.417,3
+total;mujeres;2000TIV;10.102,3
+total;mujeres;2000TIII;10.109,5
+total;mujeres;2000TII;10.129,2
+total;mujeres;2000TI;10.136,1
+total;mujeres;1999TIV;10.153,3
+total;mujeres;1999TIII;10.241,3
+total;mujeres;1999TII;10.287,3
+total;mujeres;1999TI;10.302,4
+total;mujeres;1998TIV;10.262,6
+total;mujeres;1998TIII;10.251,8
+total;mujeres;1998TII;10.295,3
+total;mujeres;1998TI;10.289,9
+total;mujeres;1997TIV;10.222,7
+total;mujeres;1997TIII;10.224,3
+total;mujeres;1997TII;10.262,1
+total;mujeres;1997TI;10.270,0
+total;mujeres;1996TIV;10.237,0
+total;mujeres;1996TIII;10.221,7
+total;mujeres;1996TII;10.269,3
+total;mujeres;1996TI;10.259,8
+estudiante;ambos sexos;2001TIV;2.821,0
+estudiante;ambos sexos;2001TIII;2.705,5
+estudiante;ambos sexos;2001TII;2.974,3
+estudiante;ambos sexos;2001TI;3.018,9
+estudiante;ambos sexos;2000TIV;2.859,8
+estudiante;ambos sexos;2000TIII;2.727,3
+estudiante;ambos sexos;2000TII;2.960,3
+estudiante;ambos sexos;2000TI;2.964,5
+estudiante;ambos sexos;1999TIV;2.924,2
+estudiante;ambos sexos;1999TIII;2.844,9
+estudiante;ambos sexos;1999TII;3.060,1
+estudiante;ambos sexos;1999TI;3.023,6
+estudiante;ambos sexos;1998TIV;2.914,2
+estudiante;ambos sexos;1998TIII;2.307,5
+estudiante;ambos sexos;1998TII;3.075,0
+estudiante;ambos sexos;1998TI;3.067,7
+estudiante;ambos sexos;1997TIV;2.977,6
+estudiante;ambos sexos;1997TIII;2.383,8
+estudiante;ambos sexos;1997TII;3.101,1
+estudiante;ambos sexos;1997TI;3.072,9
+estudiante;ambos sexos;1996TIV;2.980,2
+estudiante;ambos sexos;1996TIII;2.386,0
+estudiante;ambos sexos;1996TII;3.090,6
+estudiante;ambos sexos;1996TI;3.017,5
+estudiante;varones;2001TIV;1.287,1
+estudiante;varones;2001TIII;1.229,4
+estudiante;varones;2001TII;1.347,7
+estudiante;varones;2001TI;1.370,8
+estudiante;varones;2000TIV;1.312,0
+estudiante;varones;2000TIII;1.248,0
+estudiante;varones;2000TII;1.388,4
+estudiante;varones;2000TI;1.383,3
+estudiante;varones;1999TIV;1.363,8
+estudiante;varones;1999TIII;1.308,5
+estudiante;varones;1999TII;1.409,2
+estudiante;varones;1999TI;1.386,2
+estudiante;varones;1998TIV;1.369,0
+estudiante;varones;1998TIII;1.074,2
+estudiante;varones;1998TII;1.426,0
+estudiante;varones;1998TI;1.422,7
+estudiante;varones;1997TIV;1.392,4
+estudiante;varones;1997TIII;1.128,7
+estudiante;varones;1997TII;1.448,9
+estudiante;varones;1997TI;1.430,6
+estudiante;varones;1996TIV;1.392,7
+estudiante;varones;1996TIII;1.114,0
+estudiante;varones;1996TII;1.437,0
+estudiante;varones;1996TI;1.397,0
+estudiante;mujeres;2001TIV;1.533,9
+estudiante;mujeres;2001TIII;1.476,1
+estudiante;mujeres;2001TII;1.626,6
+estudiante;mujeres;2001TI;1.648,0
+estudiante;mujeres;2000TIV;1.547,8
+estudiante;mujeres;2000TIII;1.479,3
+estudiante;mujeres;2000TII;1.571,9
+estudiante;mujeres;2000TI;1.581,2
+estudiante;mujeres;1999TIV;1.560,4
+estudiante;mujeres;1999TIII;1.536,4
+estudiante;mujeres;1999TII;1.650,9
+estudiante;mujeres;1999TI;1.637,4
+estudiante;mujeres;1998TIV;1.545,1
+estudiante;mujeres;1998TIII;1.233,4
+estudiante;mujeres;1998TII;1.648,9
+estudiante;mujeres;1998TI;1.645,0
+estudiante;mujeres;1997TIV;1.585,2
+estudiante;mujeres;1997TIII;1.255,1
+estudiante;mujeres;1997TII;1.652,2
+estudiante;mujeres;1997TI;1.642,2
+estudiante;mujeres;1996TIV;1.587,5
+estudiante;mujeres;1996TIII;1.272,0
+estudiante;mujeres;1996TII;1.653,6
+estudiante;mujeres;1996TI;1.620,4
+jubilado o pensionista;ambos sexos;2001TIV;6.317,4
+jubilado o pensionista;ambos sexos;2001TIII;6.270,8
+jubilado o pensionista;ambos sexos;2001TII;6.261,0
+jubilado o pensionista;ambos sexos;2001TI;6.226,3
+jubilado o pensionista;ambos sexos;2000TIV;6.195,8
+jubilado o pensionista;ambos sexos;2000TIII;6.136,6
+jubilado o pensionista;ambos sexos;2000TII;6.143,4
+jubilado o pensionista;ambos sexos;2000TI;6.173,2
+jubilado o pensionista;ambos sexos;1999TIV;6.177,0
+jubilado o pensionista;ambos sexos;1999TIII;6.146,4
+jubilado o pensionista;ambos sexos;1999TII;6.118,5
+jubilado o pensionista;ambos sexos;1999TI;6.065,4
+jubilado o pensionista;ambos sexos;1998TIV;6.245,2
+jubilado o pensionista;ambos sexos;1998TIII;6.190,1
+jubilado o pensionista;ambos sexos;1998TII;6.149,0
+jubilado o pensionista;ambos sexos;1998TI;6.145,3
+jubilado o pensionista;ambos sexos;1997TIV;6.101,7
+jubilado o pensionista;ambos sexos;1997TIII;6.060,3
+jubilado o pensionista;ambos sexos;1997TII;6.038,7
+jubilado o pensionista;ambos sexos;1997TI;6.049,1
+jubilado o pensionista;ambos sexos;1996TIV;5.997,9
+jubilado o pensionista;ambos sexos;1996TIII;5.990,0
+jubilado o pensionista;ambos sexos;1996TII;5.935,0
+jubilado o pensionista;ambos sexos;1996TI;5.899,0
+jubilado o pensionista;varones;2001TIV;3.353,2
+jubilado o pensionista;varones;2001TIII;3.342,7
+jubilado o pensionista;varones;2001TII;3.312,0
+jubilado o pensionista;varones;2001TI;3.298,7
+jubilado o pensionista;varones;2000TIV;3.278,4
+jubilado o pensionista;varones;2000TIII;3.269,3
+jubilado o pensionista;varones;2000TII;3.273,6
+jubilado o pensionista;varones;2000TI;3.285,0
+jubilado o pensionista;varones;1999TIV;3.267,7
+jubilado o pensionista;varones;1999TIII;3.274,5
+jubilado o pensionista;varones;1999TII;3.260,1
+jubilado o pensionista;varones;1999TI;3.238,9
+jubilado o pensionista;varones;1998TIV;3.335,4
+jubilado o pensionista;varones;1998TIII;3.304,0
+jubilado o pensionista;varones;1998TII;3.302,4
+jubilado o pensionista;varones;1998TI;3.283,9
+jubilado o pensionista;varones;1997TIV;3.259,2
+jubilado o pensionista;varones;1997TIII;3.235,5
+jubilado o pensionista;varones;1997TII;3.212,8
+jubilado o pensionista;varones;1997TI;3.211,0
+jubilado o pensionista;varones;1996TIV;3.171,3
+jubilado o pensionista;varones;1996TIII;3.177,9
+jubilado o pensionista;varones;1996TII;3.155,5
+jubilado o pensionista;varones;1996TI;3.124,9
+jubilado o pensionista;mujeres;2001TIV;2.964,3
+jubilado o pensionista;mujeres;2001TIII;2.928,1
+jubilado o pensionista;mujeres;2001TII;2.949,0
+jubilado o pensionista;mujeres;2001TI;2.927,6
+jubilado o pensionista;mujeres;2000TIV;2.917,3
+jubilado o pensionista;mujeres;2000TIII;2.867,4
+jubilado o pensionista;mujeres;2000TII;2.869,8
+jubilado o pensionista;mujeres;2000TI;2.888,2
+jubilado o pensionista;mujeres;1999TIV;2.909,3
+jubilado o pensionista;mujeres;1999TIII;2.872,0
+jubilado o pensionista;mujeres;1999TII;2.858,4
+jubilado o pensionista;mujeres;1999TI;2.826,5
+jubilado o pensionista;mujeres;1998TIV;2.909,8
+jubilado o pensionista;mujeres;1998TIII;2.886,1
+jubilado o pensionista;mujeres;1998TII;2.846,6
+jubilado o pensionista;mujeres;1998TI;2.861,4
+jubilado o pensionista;mujeres;1997TIV;2.842,5
+jubilado o pensionista;mujeres;1997TIII;2.824,9
+jubilado o pensionista;mujeres;1997TII;2.825,8
+jubilado o pensionista;mujeres;1997TI;2.838,1
+jubilado o pensionista;mujeres;1996TIV;2.826,5
+jubilado o pensionista;mujeres;1996TIII;2.812,1
+jubilado o pensionista;mujeres;1996TII;2.779,5
+jubilado o pensionista;mujeres;1996TI;2.774,1
+labores del hogar;ambos sexos;2001TIV;5.398,5
+labores del hogar;ambos sexos;2001TIII;5.452,1
+labores del hogar;ambos sexos;2001TII;5.396,7
+labores del hogar;ambos sexos;2001TI;5.349,6
+labores del hogar;ambos sexos;2000TIV;5.177,8
+labores del hogar;ambos sexos;2000TIII;5.244,9
+labores del hogar;ambos sexos;2000TII;5.212,4
+labores del hogar;ambos sexos;2000TI;5.241,6
+labores del hogar;ambos sexos;1999TIV;5.254,7
+labores del hogar;ambos sexos;1999TIII;5.365,9
+labores del hogar;ambos sexos;1999TII;5.331,3
+labores del hogar;ambos sexos;1999TI;5.371,4
+labores del hogar;ambos sexos;1998TIV;5.471,3
+labores del hogar;ambos sexos;1998TIII;5.593,1
+labores del hogar;ambos sexos;1998TII;5.466,9
+labores del hogar;ambos sexos;1998TI;5.461,4
+labores del hogar;ambos sexos;1997TIV;5.473,9
+labores del hogar;ambos sexos;1997TIII;5.587,8
+labores del hogar;ambos sexos;1997TII;5.434,0
+labores del hogar;ambos sexos;1997TI;5.439,9
+labores del hogar;ambos sexos;1996TIV;5.501,9
+labores del hogar;ambos sexos;1996TIII;5.620,5
+labores del hogar;ambos sexos;1996TII;5.491,9
+labores del hogar;ambos sexos;1996TI;5.516,3
+labores del hogar;varones;2001TIV;77,5
+labores del hogar;varones;2001TIII;69,3
+labores del hogar;varones;2001TII;64,0
+labores del hogar;varones;2001TI;63,9
+labores del hogar;varones;2000TIV;52,6
+labores del hogar;varones;2000TIII;52,8
+labores del hogar;varones;2000TII;50,8
+labores del hogar;varones;2000TI;55,1
+labores del hogar;varones;1999TIV;53,3
+labores del hogar;varones;1999TIII;43,5
+labores del hogar;varones;1999TII;44,2
+labores del hogar;varones;1999TI;44,7
+labores del hogar;varones;1998TIV;46,9
+labores del hogar;varones;1998TIII;66,0
+labores del hogar;varones;1998TII;44,5
+labores del hogar;varones;1998TI;46,5
+labores del hogar;varones;1997TIV;50,1
+labores del hogar;varones;1997TIII;50,9
+labores del hogar;varones;1997TII;39,2
+labores del hogar;varones;1997TI;40,7
+labores del hogar;varones;1996TIV;49,0
+labores del hogar;varones;1996TIII;51,8
+labores del hogar;varones;1996TII;41,0
+labores del hogar;varones;1996TI;36,2
+labores del hogar;mujeres;2001TIV;5.321,1
+labores del hogar;mujeres;2001TIII;5.382,8
+labores del hogar;mujeres;2001TII;5.332,7
+labores del hogar;mujeres;2001TI;5.285,7
+labores del hogar;mujeres;2000TIV;5.125,1
+labores del hogar;mujeres;2000TIII;5.192,2
+labores del hogar;mujeres;2000TII;5.161,6
+labores del hogar;mujeres;2000TI;5.186,6
+labores del hogar;mujeres;1999TIV;5.201,4
+labores del hogar;mujeres;1999TIII;5.322,4
+labores del hogar;mujeres;1999TII;5.287,2
+labores del hogar;mujeres;1999TI;5.326,7
+labores del hogar;mujeres;1998TIV;5.424,3
+labores del hogar;mujeres;1998TIII;5.527,1
+labores del hogar;mujeres;1998TII;5.422,4
+labores del hogar;mujeres;1998TI;5.414,9
+labores del hogar;mujeres;1997TIV;5.423,8
+labores del hogar;mujeres;1997TIII;5.536,9
+labores del hogar;mujeres;1997TII;5.394,8
+labores del hogar;mujeres;1997TI;5.399,2
+labores del hogar;mujeres;1996TIV;5.453,0
+labores del hogar;mujeres;1996TIII;5.568,7
+labores del hogar;mujeres;1996TII;5.450,9
+labores del hogar;mujeres;1996TI;5.480,2
+incapacidad permanente;ambos sexos;2001TIV;835,5
+incapacidad permanente;ambos sexos;2001TIII;834,7
+incapacidad permanente;ambos sexos;2001TII;856,0
+incapacidad permanente;ambos sexos;2001TI;849,3
+incapacidad permanente;ambos sexos;2000TIV;856,4
+incapacidad permanente;ambos sexos;2000TIII;833,1
+incapacidad permanente;ambos sexos;2000TII;805,8
+incapacidad permanente;ambos sexos;2000TI;776,2
+incapacidad permanente;ambos sexos;1999TIV;788,3
+incapacidad permanente;ambos sexos;1999TIII;755,5
+incapacidad permanente;ambos sexos;1999TII;748,8
+incapacidad permanente;ambos sexos;1999TI;730,0
+incapacidad permanente;ambos sexos;1998TIV;669,5
+incapacidad permanente;ambos sexos;1998TIII;652,2
+incapacidad permanente;ambos sexos;1998TII;644,8
+incapacidad permanente;ambos sexos;1998TI;638,1
+incapacidad permanente;ambos sexos;1997TIV;643,4
+incapacidad permanente;ambos sexos;1997TIII;645,8
+incapacidad permanente;ambos sexos;1997TII;663,1
+incapacidad permanente;ambos sexos;1997TI;672,9
+incapacidad permanente;ambos sexos;1996TIV;650,9
+incapacidad permanente;ambos sexos;1996TIII;629,1
+incapacidad permanente;ambos sexos;1996TII;666,7
+incapacidad permanente;ambos sexos;1996TI;682,1
+incapacidad permanente;varones;2001TIV;451,1
+incapacidad permanente;varones;2001TIII;439,8
+incapacidad permanente;varones;2001TII;453,3
+incapacidad permanente;varones;2001TI;459,2
+incapacidad permanente;varones;2000TIV;470,8
+incapacidad permanente;varones;2000TIII;454,5
+incapacidad permanente;varones;2000TII;431,7
+incapacidad permanente;varones;2000TI;435,3
+incapacidad permanente;varones;1999TIV;441,6
+incapacidad permanente;varones;1999TIII;420,5
+incapacidad permanente;varones;1999TII;412,4
+incapacidad permanente;varones;1999TI;401,9
+incapacidad permanente;varones;1998TIV;389,3
+incapacidad permanente;varones;1998TIII;378,3
+incapacidad permanente;varones;1998TII;370,3
+incapacidad permanente;varones;1998TI;371,1
+incapacidad permanente;varones;1997TIV;369,4
+incapacidad permanente;varones;1997TIII;371,3
+incapacidad permanente;varones;1997TII;384,8
+incapacidad permanente;varones;1997TI;376,9
+incapacidad permanente;varones;1996TIV;367,8
+incapacidad permanente;varones;1996TIII;347,5
+incapacidad permanente;varones;1996TII;362,7
+incapacidad permanente;varones;1996TI;380,1
+incapacidad permanente;mujeres;2001TIV;384,4
+incapacidad permanente;mujeres;2001TIII;394,9
+incapacidad permanente;mujeres;2001TII;402,7
+incapacidad permanente;mujeres;2001TI;390,1
+incapacidad permanente;mujeres;2000TIV;385,6
+incapacidad permanente;mujeres;2000TIII;378,6
+incapacidad permanente;mujeres;2000TII;374,1
+incapacidad permanente;mujeres;2000TI;340,9
+incapacidad permanente;mujeres;1999TIV;346,6
+incapacidad permanente;mujeres;1999TIII;334,9
+incapacidad permanente;mujeres;1999TII;336,4
+incapacidad permanente;mujeres;1999TI;328,1
+incapacidad permanente;mujeres;1998TIV;280,2
+incapacidad permanente;mujeres;1998TIII;273,9
+incapacidad permanente;mujeres;1998TII;274,4
+incapacidad permanente;mujeres;1998TI;267,1
+incapacidad permanente;mujeres;1997TIV;274,0
+incapacidad permanente;mujeres;1997TIII;274,5
+incapacidad permanente;mujeres;1997TII;278,3
+incapacidad permanente;mujeres;1997TI;296,0
+incapacidad permanente;mujeres;1996TIV;283,0
+incapacidad permanente;mujeres;1996TIII;281,6
+incapacidad permanente;mujeres;1996TII;304,0
+incapacidad permanente;mujeres;1996TI;302,0
+otra;ambos sexos;2001TIV;559,1
+otra;ambos sexos;2001TIII;666,8
+otra;ambos sexos;2001TII;541,0
+otra;ambos sexos;2001TI;573,1
+otra;ambos sexos;2000TIV;389,4
+otra;ambos sexos;2000TIII;501,7
+otra;ambos sexos;2000TII;422,1
+otra;ambos sexos;2000TI;414,1
+otra;ambos sexos;1999TIV;424,2
+otra;ambos sexos;1999TIII;497,3
+otra;ambos sexos;1999TII;476,8
+otra;ambos sexos;1999TI;539,9
+otra;ambos sexos;1998TIV;368,3
+otra;ambos sexos;1998TIII;861,4
+otra;ambos sexos;1998TII;382,6
+otra;ambos sexos;1998TI;405,1
+otra;ambos sexos;1997TIV;410,5
+otra;ambos sexos;1997TIII;921,2
+otra;ambos sexos;1997TII;420,7
+otra;ambos sexos;1997TI;418,0
+otra;ambos sexos;1996TIV;436,0
+otra;ambos sexos;1996TIII;876,6
+otra;ambos sexos;1996TII;398,8
+otra;ambos sexos;1996TI;421,4
+otra;varones;2001TIV;385,4
+otra;varones;2001TIII;433,9
+otra;varones;2001TII;389,6
+otra;varones;2001TI;407,3
+otra;varones;2000TIV;263,1
+otra;varones;2000TIII;309,6
+otra;varones;2000TII;270,2
+otra;varones;2000TI;274,8
+otra;varones;1999TIV;288,6
+otra;varones;1999TIII;321,8
+otra;varones;1999TII;322,4
+otra;varones;1999TI;356,1
+otra;varones;1998TIV;265,2
+otra;varones;1998TIII;530,0
+otra;varones;1998TII;279,7
+otra;varones;1998TI;303,7
+otra;varones;1997TIV;313,4
+otra;varones;1997TIII;588,3
+otra;varones;1997TII;309,7
+otra;varones;1997TI;323,5
+otra;varones;1996TIV;349,0
+otra;varones;1996TIII;589,3
+otra;varones;1996TII;317,5
+otra;varones;1996TI;338,3
+otra;mujeres;2001TIV;173,7
+otra;mujeres;2001TIII;232,9
+otra;mujeres;2001TII;151,4
+otra;mujeres;2001TI;165,8
+otra;mujeres;2000TIV;126,3
+otra;mujeres;2000TIII;192,1
+otra;mujeres;2000TII;151,9
+otra;mujeres;2000TI;139,3
+otra;mujeres;1999TIV;135,5
+otra;mujeres;1999TIII;175,5
+otra;mujeres;1999TII;154,4
+otra;mujeres;1999TI;183,8
+otra;mujeres;1998TIV;103,1
+otra;mujeres;1998TIII;331,3
+otra;mujeres;1998TII;103,0
+otra;mujeres;1998TI;101,5
+otra;mujeres;1997TIV;97,2
+otra;mujeres;1997TIII;332,9
+otra;mujeres;1997TII;111,0
+otra;mujeres;1997TI;94,5
+otra;mujeres;1996TIV;87,0
+otra;mujeres;1996TIII;287,3
+otra;mujeres;1996TII;81,3
+otra;mujeres;1996TI;83,1

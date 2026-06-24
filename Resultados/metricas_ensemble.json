@@ -1,0 +1,30 @@
+{
+  "metodo": "stacking",
+  "componentes": [
+    "arima",
+    "random_walk",
+    "var",
+    "prophet_diff1",
+    "lasso"
+  ],
+  "global": {
+    "rmse": 1.483
+  },
+  "por_horizonte": {
+    "0": {
+      "rmse": 0.547
+    },
+    "1": {
+      "rmse": 1.001
+    },
+    "2": {
+      "rmse": 1.371
+    },
+    "3": {
+      "rmse": 1.724
+    },
+    "4": {
+      "rmse": 2.201
+    }
+  }
+}
