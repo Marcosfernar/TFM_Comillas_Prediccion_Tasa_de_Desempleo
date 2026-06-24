@@ -1,0 +1,34 @@
+# Entorno del TFM (prediccion de la tasa de paro trimestral EPA de Espana).
+# Python 3.13.5 (CPython) sobre Windows 10. Versiones fijadas para reproducir el modelado.
+# Detalle y semillas en Modelos/entorno_librerias.json.
+
+# Datos y calculo
+pandas==2.3.3
+numpy==2.3.4
+scipy==1.16.3
+
+# Econometria
+statsmodels==0.14.5
+patsy==1.0.2
+
+# Aprendizaje automatico
+scikit-learn==1.8.0
+xgboost==3.3.0
+optuna==4.9.0
+
+# Series con estacionalidad (Prophet y su backend)
+prophet==1.3.0
+cmdstanpy==1.3.0
+holidays==0.97
+
+# Interpretabilidad
+shap==0.52.0
+
+# Visualizacion
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.5.0
+
+# Ejecucion reproducible de notebooks
+nbformat==5.10.4
+nbclient==0.10.2
