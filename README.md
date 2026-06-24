@@ -17,9 +17,9 @@ La tasa de paro es una serie **fuertemente inercial**: su propio pasado reciente
 
 - Ningún modelo individual bate a un **ARIMA univariante**, que actúa como benchmark.
 - El **panel macroeconómico** construido en el análisis exploratorio tiene valor descriptivo y causa en sentido de Granger (42 de 55 variables), pero **no aporta valor predictivo marginal fuera de muestra**. Es el hallazgo metodológico central: causalidad de Granger en muestra no equivale a valor predictivo.
-- El **aprendizaje automático no rescata**: árboles que no extrapolan y sobreajustan, y el mejor lineal regularizado (Lasso) por debajo del paseo aleatorio.
+- El **aprendizaje automático no rescata**: árboles que no extrapolan y sobreajustan, y el mejor lineal regularizado (Lasso) por debajo del random walk.
 - Solo una **combinación por stacking** supera al ARIMA, de forma modesta pero real (+3,1 % en RMSE global).
-- La **COVID es la frontera de lo predecible**: en 2020–2021 el paseo aleatorio ingenuo bate a los modelos sofisticados, que intentan explicar un shock no anticipable.
+- La **COVID es la frontera de lo predecible**: en 2020–2021 el random walk ingenuo bate a los modelos sofisticados, que intentan explicar un shock no anticipable.
 
 | Modelo | RMSE global (fuera de muestra) | Papel |
 |---|---|---|
@@ -27,11 +27,11 @@ La tasa de paro es una serie **fuertemente inercial**: su propio pasado reciente
 | ARIMA | 1.531 | Benchmark, invicto entre los individuales |
 | SARIMAX | 1.630 | Las exógenas no compensan el ruido que añaden |
 | VAR | 1.694 | Mejor multivariante |
-| Paseo aleatorio (random walk) | 1.883 | Suelo de referencia |
+| Random walk | 1.883 | Suelo de referencia |
 | Prophet (en diferencia) | 1.967 | Ancla cuando modela el cambio |
 | Lasso | 2.047 | Mejor modelo de aprendizaje automático |
 
-RMSE en puntos de la tasa de paro, agregando nowcast y horizontes 1 a 4. En el subperiodo COVID (2020–2021) el orden se invierte: el paseo aleatorio (1.50) es el más robusto y el ensamblaje hereda la debilidad del ARIMA (2.27). La tabla completa, con métricas por horizonte y skill scores, está en `Resultados/metricas_consolidado.csv`.
+RMSE en puntos de la tasa de paro, agregando nowcast y horizontes 1 a 4. En el subperiodo COVID (2020–2021) el orden se invierte: el random walk (1.50) es el más robusto y el ensamblaje hereda la debilidad del ARIMA (2.27). La tabla completa, con métricas por horizonte y skill scores, está en `Resultados/metricas_consolidado.csv`.
 
 ## Estructura del repositorio
 
@@ -63,7 +63,7 @@ El pipeline es secuencial y trazable:
 1. **Limpieza y unificación** (`Limpieza y unión de series temporales/` → `Datasets/`): cada serie se trata de forma individual, con su empalme de versiones, su homogeneización de unidades y su paso a frecuencia trimestral.
 2. **Análisis exploratorio** (`EDA/`): caracterización de cada serie y diagnóstico de su forma estacionaria, sin tomar decisiones de modelización.
 3. **Construcción del panel** (`Datasets Modelado/`): estacionarización de las variables y organización en pools por familia de modelo y por canal económico.
-4. **Modelado** (`Modelos/`): paseo aleatorio, ARIMA y SARIMAX, VAR y VECM, Prophet, modelos de aprendizaje automático (Random Forest, XGBoost, Ridge, Lasso), análisis de contribución por canal y causalidad de Granger, y ensamblaje.
+4. **Modelado** (`Modelos/`): random walk, ARIMA y SARIMAX, VAR y VECM, Prophet, modelos de aprendizaje automático (Random Forest, XGBoost, Ridge, Lasso), análisis de contribución por canal y causalidad de Granger, y ensamblaje.
 5. **Validación**: ventana expansiva (walk-forward) con 116 orígenes de predicción desde 1996Q1 hasta 2024Q4, nowcast y horizontes 1 a 4. Toda la selección de modelos e hiperparámetros se decide solo con información anterior al test; `verificacion_no_fuga.py` comprueba la ausencia de fuga.
 6. **Resultados** (`Resultados/`): backtest, métricas, comparación con previsiones oficiales como prueba de estrés y proyección a 2026.
 
